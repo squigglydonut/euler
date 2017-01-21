@@ -8,5 +8,5 @@ counter = 1
     counter, previous = previous, previous + counter
   end
 
-total
+  total
 end
